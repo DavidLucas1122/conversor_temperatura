@@ -14,6 +14,8 @@ public class TelaConversor {
 	private JLabel labelMensagemErro;
 	
 	public void criarTelaConversor() {
+		Jframe tela = new Jframe();
+		
 		
 	}
 }

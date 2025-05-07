@@ -15,7 +15,6 @@ public class Temperatura {
 	}
 	public double converterParaKelvin() {
 		
-		
 	}
 	public double converterParaFahreunheit() {
 		
